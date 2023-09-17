@@ -45,6 +45,7 @@ const Bottles = () => {
         removeAllFromLS();
     }
     
+    
 
     return (
         <div className="w-full px-20 mx-auto text-center">
